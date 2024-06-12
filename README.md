@@ -27,4 +27,7 @@ Imagine a world where our bodies dance to the rhythm of balance, where sugars an
 **6. The Socioeconomic Impact:**
    - Diabetes paints portraits of economic challenges, where coins transform into healthcare gold, where productivity dances with disability, and where the cost of silence echoes louder than the whispers of prevention. Addressing social disparities becomes the heroic saga in this tale.
 
+![a girl](https://github.com/ByteBloomLabs/ByteBloomLabs.github.io/assets/172490982/98be29ed-3fa5-46eb-bd8b-a82cbbd3ec01)
+
+
 In the heart of the diabetes narrative lies a call to action, a plea to transform awareness into action, to turn prevention into a shield, and to weave a tapestry of care for those embarking on this journey. Let us journey together, hand in hand, as we script a tale of wellness and resilience against the diabetes narrative.

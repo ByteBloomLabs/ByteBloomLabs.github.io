@@ -1,6 +1,6 @@
 # ByteBloomLabs.github.io
-  # **Discovering Diabetes: A Journey into Understanding**
-
+ 
+# **Discovering Diabetes: A Journey into Understanding**
 
 #### Imagine a world where our bodies dance to the rhythm of balance, where sugars and insulin harmonize effortlessly. Yet, in the reality of diabetes, this dance faces disruption. Diabetes mellitus, or simply diabetes, unveils itself as a storyteller of blood sugar imbalance, weaving its narrative through the lives of millions.
 
